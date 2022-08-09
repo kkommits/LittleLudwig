@@ -2,6 +2,6 @@
 selbst spielendes Instrument – Arduino Projekt 
 
 Präsentation und Dokumentation 
-in LittleLudwigIAD2022.pdf
+in LittleLudwig IAD 2022 PDF
 Demo 
 https://youtu.be/pjhdhrTtvgE
